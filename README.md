@@ -1,7 +1,15 @@
 # angular-crud
 
-Curso angular 9
+Realizando curso basico Angular
 
-Execute primeiro backend, servidor json 
+Implementado utilizando Docker
 
-Apos execute frontend
+Execute backend, servidor json 
+npm install
+npm start
+Porta 3000
+
+Execute frontend
+npm install
+npm start
+porta 4200
