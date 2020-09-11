@@ -6,7 +6,7 @@ ng add @angular/material
 
 ng generate component components/template/header
 
-//skemerics
+//schematics
 ng generate  @angular/material:table components/product/product-read2
 
 ng g c components/product/product-delete
