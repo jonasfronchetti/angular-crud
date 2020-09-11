@@ -1,0 +1,12 @@
+npm i -g @angular/cli
+
+ng new frontend --minimal --directory ./
+
+ng add @angular/material
+
+ng generate component components/template/header
+
+//skemerics
+ng generate  @angular/material:table components/product/product-read2
+
+ng g c components/product/product-delete
